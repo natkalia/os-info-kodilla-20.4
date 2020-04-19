@@ -1,0 +1,14 @@
+{
+  "name": "os-info-kodilla-20.4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/natkalia/os-info-kodilla-20.4.git",
+  "author": "Natalia Banasiewicz",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "dependencies": {
+    "electron": "5.0.6"
+  }
+}
